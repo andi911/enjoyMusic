@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F25B7EA-924F-429D-9F8B-CE66E9E9A187</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EnjoyMusic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>90B72891-5BC9-4D9B-B2FC-D9FE04076779</key>
+		<string>https://git.oschina.net/gem/i04140716-Team3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SourceCode/client/EnjoyMusic/EnjoyMusic.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>90B72891-5BC9-4D9B-B2FC-D9FE04076779</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/gem/i04140716-Team3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90B72891-5BC9-4D9B-B2FC-D9FE04076779</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90B72891-5BC9-4D9B-B2FC-D9FE04076779</string>
+			<key>IDESourceControlWCCName</key>
+			<string>未命名文件夹 2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
