@@ -21,3 +21,4 @@ K歌，因为没有相应接口我们通过自己的数据库提供样本K歌，
 ##4.用户 ##
 更多，主要是用户的信息，包含注册，修改，上传图片，等等。
 ![image6](https://github.com/andi911/enjoyMusic/blob/master/image/six.png)
+beanfbgoersb erohbjrehopj
