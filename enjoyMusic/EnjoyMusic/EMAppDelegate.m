@@ -13,7 +13,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     NSString *home  = NSHomeDirectory();
-    NSLog(@"%@",home);
     self.filePath = [[NSString alloc] initWithFormat:@"%@/Documents",home];
     NSLog(@"%@",self.filePath);
     
